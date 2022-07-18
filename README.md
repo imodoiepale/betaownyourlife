@@ -4,8 +4,7 @@ THIS IS AN EXAMPLE OF A CORPORATE WEBSITE DESIGN TO FIT MODERN AGE NEEDS
 
 
 <a href="https://snyk.io/test/github/{imodoiepale}/{repo}">
---------------------------------------------------------------------
-## 1. Profile View Counter
+
 <img src="https://komarev.com/ghpvc/?username=imodoiepale"/>
 
 
