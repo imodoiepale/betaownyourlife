@@ -16,9 +16,7 @@ THIS IS AN EXAMPLE OF A CORPORATE WEBSITE DESIGN TO FIT MODERN AGE NEEDS
 </a>
 Made with [contributors-img](https://contrib.rocks).
 --------------------------------------------------------------------
-## 4. Random Joke Generator
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 --------------------------------------------------------------------
 ## 5. Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=imodoiepale"/>
