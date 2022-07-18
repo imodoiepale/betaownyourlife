@@ -6,7 +6,7 @@ THIS IS AN EXAMPLE OF A CORPORATE WEBSITE DESIGN TO FIT MODERN AGE NEEDS
 <!--badges  -->
 
 <!-- profile views -->
-<img src=https://komarev.com/ghpvc/?username = imodoiepale/>
+<img src=https://komarev.com/ghpvc/?username = GitHub_Username/>
 
 <!-- hits -->
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = [Paste_Your_GitHub_Repository_Link_Here](https://github.com/imodoiepale/betaownyourlife))
