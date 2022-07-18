@@ -4,6 +4,8 @@ THIS IS AN EXAMPLE OF A CORPORATE WEBSITE DESIGN TO FIT MODERN AGE NEEDS
 
 
 <a href="https://snyk.io/test/github/{imodoiepale}/{repo}">
+  
+  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 <img src="https://komarev.com/ghpvc/?username=imodoiepale"/>
 
