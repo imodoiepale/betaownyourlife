@@ -9,6 +9,6 @@ THIS IS AN EXAMPLE OF A CORPORATE WEBSITE DESIGN TO FIT MODERN AGE NEEDS
 
 
 <a href = "https://github.com/imodoiepale/betaownyourlife/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+<img src = "https://contrib.rocks/image?repo = imodoiepale/betaownyourlife"/>
 </a>
-Made with [contributors-img](https://contrib.rocks).
+
